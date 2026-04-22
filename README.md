@@ -17,6 +17,6 @@ Este projeto foi desenvolvido com foco em aprendizado, visando praticar a lógic
 
 
 🚀 Tecnologias Utilizadas:
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python
+<img alt="Python" src="https://shields.io">
 
 

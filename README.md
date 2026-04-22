@@ -17,6 +17,6 @@ Este projeto foi desenvolvido com foco em aprendizado, visando praticar a lógic
 
 
 🚀 Tecnologias Utilizadas:
-![Python](https://shields.io)
+<img src="https://shields.io" />
 
 

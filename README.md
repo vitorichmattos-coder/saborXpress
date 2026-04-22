@@ -15,5 +15,8 @@ Durante o desenvolvimento, foram explorados conceitos fundamentais da programaç
 
 Este projeto foi desenvolvido com foco em aprendizado, visando praticar a lógica de programação e a organização de código em Python, simulando uma funcionalidade real de um aplicativo de restaurantes.
 
- Ferramentas ultilizadas:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120"/>
+
+🚀 Tecnologias Utilizadas:
+![Python](https://shields.io)
+
+
